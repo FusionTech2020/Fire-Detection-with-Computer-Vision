@@ -1,4 +1,4 @@
-# PROJECT OVERVIEW - Fire-Detection-with-Computer-Vision
+# PROJECT OVERVIEW : Fire Detection with Computer Vision
 
 ## A.DEFINING THE PROJECT 
 
