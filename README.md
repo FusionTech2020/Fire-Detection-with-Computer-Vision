@@ -27,6 +27,11 @@ and the effect of fire.
 
 **Gantt Chart**
 
+![0001](https://user-images.githubusercontent.com/74091122/106426414-85f67a80-64a0-11eb-9cf5-a387433d605f.jpg)
+
+
+**Risk Identification Chart**
+
 
 
 
