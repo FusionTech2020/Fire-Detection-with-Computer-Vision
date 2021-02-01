@@ -22,6 +22,12 @@ and the effect of fire.
 
 **Work Breakdown Structure**
 
+![WBS](https://user-images.githubusercontent.com/74091122/106426157-12546d80-64a0-11eb-8ac7-ba669c5d593e.png)
+
+
+**Gantt Chart**
+
+
 
 
 
