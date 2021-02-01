@@ -189,6 +189,8 @@ iv. Close Contract
 
 [![firedetectiongithub2](https://user-images.githubusercontent.com/74091122/105935614-3ae9fb00-608d-11eb-85fe-4d02c26b0661.png)](https://www.youtube.com/watch?v=Ws1ZOpu5PCA&feature=youtu.be)
 
+Link: https://www.youtube.com/watch?v=Ws1ZOpu5PCA&feature=youtu.be
+
 
 
 For AIPM 2020
