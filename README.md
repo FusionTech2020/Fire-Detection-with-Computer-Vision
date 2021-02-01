@@ -168,6 +168,8 @@ ii. Lesson Learned
 
 [Lessons-Learned Report.docx](https://github.com/FusionTech2020/Fire-Detection-with-Computer-Vision/files/5902769/Lessons-Learned.Report.docx)
 
+![WhatsApp Image 2021-02-01 at 4 40 03 PM](https://user-images.githubusercontent.com/74091122/106436586-3c615c00-64af-11eb-8fc8-9073a33523a3.jpeg)
+
 
 iii. Final Project Report
 
