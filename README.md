@@ -32,6 +32,14 @@ and the effect of fire.
 
 **Risk Identification Chart**
 
+<img width="364" alt="Risk chart" src="https://user-images.githubusercontent.com/74091122/106426924-6b70d100-64a1-11eb-8152-fa76e266a1a4.PNG">
+
+
+**Responsibility Assignment Matrices (RAM)**
+
+
+
+
 
 
 
