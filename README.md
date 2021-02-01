@@ -76,6 +76,26 @@ systems that control networks.
 
 **Modules and Components**
 
+<img width="415" alt="modules and components" src="https://user-images.githubusercontent.com/74091122/106427702-c6ef8e80-64a2-11eb-9e43-1444b3726dbe.PNG">
+
+
+**Budget**
+
+<img width="455" alt="Budget" src="https://user-images.githubusercontent.com/74091122/106427719-cce56f80-64a2-11eb-98fc-ef77c6dcd632.PNG">
+
+**Responsibilities**
+
+
+
+
+# C. IMPLEMENTING THE PROJECT PLAN
+
+**Deliverables**
+
+- Successfully created an AI project to detect fire.
+- 
+
+
 
 
 
