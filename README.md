@@ -117,11 +117,29 @@ systems that control networks.
 
 **Project Design and Coding**
 
+
 **Design**
 
-![article-16sep-AI-Computer-vision-technologies](https://user-images.githubusercontent.com/74091122/106432328-83e4e980-64a9-11eb-927d-c0ee57361479.jpg)
+![WhatsApp Image 2021-02-01 at 4 22 47 PM (1)](https://user-images.githubusercontent.com/74091122/106433155-c1964200-64aa-11eb-9f4e-fabb707c7f5b.jpeg)
+
 
 **Coding**
+
+**1. Customized CNN Architecture**
+
+<img width="731" alt="code 1" src="https://user-images.githubusercontent.com/74091122/106433041-99a6de80-64aa-11eb-929d-2b2bc567e38d.PNG">
+
+<img width="721" alt="code 2" src="https://user-images.githubusercontent.com/74091122/106433044-9c093880-64aa-11eb-8c38-30431e780451.PNG">
+
+
+**2. Inception V3 Model**
+
+<img width="392" alt="code 3" src="https://user-images.githubusercontent.com/74091122/106433053-9dd2fc00-64aa-11eb-9634-ca2f46a4de46.PNG">
+
+
+**3. Real Time Testing**
+
+<img width="418" alt="code 4" src="https://user-images.githubusercontent.com/74091122/106433067-a0cdec80-64aa-11eb-9a2a-c426fb1a1a01.PNG">
 
 
 
@@ -137,6 +155,11 @@ systems that control networks.
 
 
 
+## E. COMPLETING THE PROJECT
+
+i. 
+
+ii. Lesson 
 
 
 
@@ -144,12 +167,7 @@ systems that control networks.
 
 
 
-
-
-
-
-
-
+## F. PROJECT PRESENTATION
 
 [![firedetectiongithub2](https://user-images.githubusercontent.com/74091122/105935614-3ae9fb00-608d-11eb-85fe-4d02c26b0661.png)](https://www.youtube.com/watch?v=Ws1ZOpu5PCA&feature=youtu.be)
 
