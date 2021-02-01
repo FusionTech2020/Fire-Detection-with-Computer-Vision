@@ -99,18 +99,26 @@ systems that control networks.
 - Fire detection algorithm.
 - Final report of the system.
 
+
 **Tasks and Estimated Costs**
+
+![WhatsApp Image 2021-02-01 at 4 06 15 PM](https://user-images.githubusercontent.com/74091122/106430925-80e8f980-64a7-11eb-9a0c-79558ae7ca4a.jpeg)
+
+
 
 **Milestone Chart**
 
 <img width="452" alt="milestone" src="https://user-images.githubusercontent.com/74091122/106429899-0cfa2180-64a6-11eb-8d41-f69af037aea9.PNG">
 
 
+
+
 ## D. EXECUTING THE PROJECT
 
-**Project Design and Coding
+**Project Design and Coding**
 
 **Motion Detection**
+
 
 
 
