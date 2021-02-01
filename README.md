@@ -157,9 +157,17 @@ systems that control networks.
 
 ## E. COMPLETING THE PROJECT
 
-i. 
 
-ii. Lesson 
+i. Acceptance/Project Completion Form 
+
+![WhatsApp Image 2021-02-01 at 4 39 59 PM](https://user-images.githubusercontent.com/74091122/106434360-6b2a0300-64ac-11eb-8302-c932deeb06dc.jpeg)
+
+
+ii. Lesson Learned 
+
+
+
+
 
 
 
