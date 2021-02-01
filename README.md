@@ -117,7 +117,24 @@ systems that control networks.
 
 **Project Design and Coding**
 
-**Motion Detection**
+**Design**
+
+![article-16sep-AI-Computer-vision-technologies](https://user-images.githubusercontent.com/74091122/106432328-83e4e980-64a9-11eb-927d-c0ee57361479.jpg)
+
+**Coding**
+
+
+
+**Output**
+
+<img width="338" alt="Motion" src="https://user-images.githubusercontent.com/74091122/106431590-7418d580-64a8-11eb-8743-b8368abc5d30.PNG">
+
+
+<img width="228" alt="colored" src="https://user-images.githubusercontent.com/74091122/106431625-809d2e00-64a8-11eb-8599-235c555124d9.PNG">
+
+
+<img width="224" alt="m s" src="https://user-images.githubusercontent.com/74091122/106431579-6fecb800-64a8-11eb-8e0b-2b318d300700.PNG">
+
 
 
 
