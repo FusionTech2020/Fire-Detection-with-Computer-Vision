@@ -37,6 +37,45 @@ and the effect of fire.
 
 **Responsibility Assignment Matrices (RAM)**
 
+<img width="469" alt="RAM" src="https://user-images.githubusercontent.com/74091122/106426917-67dd4a00-64a1-11eb-8d40-8c87ed85b57f.PNG">
+
+1. Project Manager - Nur'Ain Najiha
+
+A project manager is a person with the overall responsibility to initiate,
+plan, design, execute, monitor, control and close a project successfully.
+The project manager will plan and create the project schedule for the
+stakeholders and ensure that each phase is implemented,troubleshooting, 
+budget preparation and the process is controlled. The project manager must have 
+the skills to ask pervasive questions, detect unintended assumptions and 
+resolve disputes, and also more general management skills.
+
+2. System Designer - Megala a/p Sontulom
+
+The role of the system designer is to develop a comprehensive plan and
+guidance that can be provided to the programmers. The main input
+document used by the system designer is the specification of
+specifications which the system or business analyst that has created. The
+system designer is also responsible for drafting test schedules and
+working with a team of users and system testers to ensure that the system
+is properly tested.
+
+3. Programmer - Nur Izzati
+
+The task of the programmer is to define, develop, install and evaluate a
+software framework that has designed an algorithm and a system using
+a convolutionary neural network. When the final development
+environment has been delivered to the programmer, it can also help
+maintain and update the software and ensure that the security
+vulnerabilities are solved and that it operates with new databases.
+Programmer will build features that allow users to execute simple tasks
+on a smartphone or computer, while others will develop underlying
+systems that control networks.
+
+
+**Project Planning Summary**
+
+**Modules and Components**
+
 
 
 
