@@ -83,7 +83,10 @@ systems that control networks.
 
 <img width="455" alt="Budget" src="https://user-images.githubusercontent.com/74091122/106427719-cce56f80-64a2-11eb-98fc-ef77c6dcd632.PNG">
 
+
 **Responsibilities**
+
+![WhatsApp Image 2021-02-01 at 3 47 01 PM](https://user-images.githubusercontent.com/74091122/106429237-2353ad80-64a5-11eb-9d1d-22c35c43a1dc.jpeg)
 
 
 
@@ -92,8 +95,16 @@ systems that control networks.
 
 **Deliverables**
 
-- Successfully created an AI project to detect fire.
-- 
+- System design
+- Successfully created an AI system to detect fire.
+- Final report of the system.
+
+**Tasks and Estimated Costs**
+
+**Milestone Chart**
+
+
+
 
 
 
