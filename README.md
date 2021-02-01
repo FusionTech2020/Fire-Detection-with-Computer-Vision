@@ -91,17 +91,29 @@ systems that control networks.
 
 
 
-# C. IMPLEMENTING THE PROJECT PLAN
+## C. IMPLEMENTING THE PROJECT PLAN
 
 **Deliverables**
 
-- System design
-- Successfully created an AI system to detect fire.
+- Successffully detecting the Fired-Coloured Pixels.
+- Fire detection algorithm.
 - Final report of the system.
 
 **Tasks and Estimated Costs**
 
 **Milestone Chart**
+
+<img width="452" alt="milestone" src="https://user-images.githubusercontent.com/74091122/106429899-0cfa2180-64a6-11eb-8d41-f69af037aea9.PNG">
+
+
+## D. EXECUTING THE PROJECT
+
+**Project Design and Coding
+
+**Motion Detection**
+
+
+
 
 
 
